@@ -1,2 +1,2 @@
 # Labs
-course lab
+Course lab
